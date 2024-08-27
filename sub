@@ -1,4 +1,4 @@
 vless://7524fe71-0287-455d-bf0d-143ece42736c@8.219.77.141:80?encryption=none&security=none&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US01
 vless://7524fe71-0287-455d-bf0d-143ece42736c@104.18.21.121:80?encryption=none&security=none&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US02
 vless://7524fe71-0287-455d-bf0d-143ece42736c@34.102.111.127:80?encryption=none&security=none&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US03
-vless://7524fe71-0287-455d-bf0d-143ece42736c@37.123.196.135:443?encryption=none&security=tls&sni=notls2.gunyoung.top&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US04
+vless://7524fe71-0287-455d-bf0d-143ece42736c@cfauto.gunyoung.top:443?encryption=none&security=tls&sni=notls2.gunyoung.top&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US04

@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,kiwoom.com
 DOMAIN,video.kdrama.pw
 DOMAIN-KEYWORD,apple
 
-#케이뱅크
+#케이뱅크/신한은행
 DOMAIN-SUFFIX,kbanknow.com
+DOMAIN-KEYWORD,shinhan
 
 #LS증권
 DOMAIN-SUFFIX,ls-sec.co.kr

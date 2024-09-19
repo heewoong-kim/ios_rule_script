@@ -2,3 +2,4 @@ vless://7524fe71-0287-455d-bf0d-143ece42736c@8.219.77.141:80?encryption=none&sec
 vless://7524fe71-0287-455d-bf0d-143ece42736c@104.18.21.121:80?encryption=none&security=none&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US02
 vless://7524fe71-0287-455d-bf0d-143ece42736c@34.102.111.127:80?encryption=none&security=none&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US03
 vless://7524fe71-0287-455d-bf0d-143ece42736c@cfauto.gunyoung.top:443?encryption=none&security=tls&sni=notls2.gunyoung.top&type=ws&host=notls2.gunyoung.top&path=%2F%3Fed%3D2560#US04
+wg://vn3.gunyoung.top:59635?publicKey=MTurcfZDpoDrIHwit51ryyvGW32L3N0jyK4QgZEhsH8=&privateKey=UE+SSM1DWwfnuUoozv7KmUuru+eWT/yufWTNIJDwS1g=&presharedKey=CKYN88Qn3T0ISS1kc7NNoXqr4FoFkWNK8Jtveeo/wg4=&ip=10.66.66.2,fd42:42:42::2&dns=1.1.1.1,1.0.0.1&udp=1&flag=LAN
